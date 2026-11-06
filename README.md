@@ -1,5 +1,5 @@
 # 💫 About Me:
-👯 I’m looking to collaborate on: Machine Learning, Data Science, and Python-based backend projects<br><br>🤝 I’m looking for help with: Advanced Deep Learning architectures and optimization<br><br>🌱 I’m currently learning: Advanced AI, Neural Networks, and Software Architecture<br><br>💬 Ask me about: C++, Python, Data Structures, Algorithms, SQL Server, and OOP<br><br>⚡ Fun fact: Passionate about turning complex datasets into intelligent, automated solutions!
+👯 I’m looking to collaborate on: Machine Learning, Data Science, and Python-based backend projects<br><br>🤝 looking for help with: Advanced Deep Learning architectures and optimization<br><br>🌱 I’m currently learning: Advanced AI, Neural Networks, and Software Architecture<br><br>💬 Ask me about: C++, Python, Data Structures, Algorithms, SQL Server, and OOP<br><br>⚡ Fun fact: Passionate about turning complex datasets into intelligent, automated solutions!
 
 
 ## 🌐 Socials:
